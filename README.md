@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Here is my [LinkedIn](https://www.linkedin.com/in/sevicbb/) :rocket:
+- Here is my [LinkedIn](https://www.linkedin.com/in/sevicbb/) profile :rocket:
 
 <!--
 **sevicbb/sevicbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
